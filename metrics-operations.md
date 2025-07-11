@@ -384,3 +384,37 @@
 - **User Experience**: 4-step onboarding optimized for 70%+ completion rates
 
 **Updated**: December 2024 based on comprehensive competitive research and implementation 
+
+### New Metrics for 2024 Flows
+
+#### AI Co-Creation Sessions
+- **Co-Creation Session Start Rate**: % of active users starting at least one AI co-creation session per week
+- **Average Co-Creation Session Length**: Mean duration (minutes) of AI co-creation sessions
+- **Co-Creation Satisfaction Score**: User-reported satisfaction (1-5) after co-creation
+- **Co-Creation Output Adoption**: % of co-created works submitted as assignments or shared
+
+#### Personalized Learning Path
+- **Path Adoption Rate**: % of new users who follow the AI-generated learning path
+- **Path Drop-off Points**: Most common steps where users exit the path (step 1: field, step 2: level, etc.)
+- **Path Completion Rate**: % of users completing all steps in their personalized plan
+
+#### Practice Plan Completion
+- **Practice Plan Step Completion**: % of users completing each week of the AI practice plan (Foundation, Skill Application, Portfolio)
+- **Repeat Practice Rate**: % of users who repeat practice plan steps for improvement
+
+#### Feedback Style Switching
+- **Style Switch Frequency**: Average number of feedback style changes per user per session
+- **Preferred Style Pathways**: Most common sequences of feedback style selection
+
+#### Lesson Notes & AI Q&A
+- **Lesson Note Usage Rate**: % of lessons with user notes added
+- **AI Q&A Engagement**: % of lessons where users ask the AI a question
+- **AI Q&A Helpfulness**: User rating of AI answers in-lesson (1-5)
+
+#### Progress Tab Usage
+- **Progress Tab Visit Rate**: % of users visiting the progress tab per week
+- **Action on AI Suggestions**: % of users who act on AI progress suggestions (e.g., start new course, repeat assignment)
+
+#### Community Sharing (Granular)
+- **Post-Feedback Sharing Rate**: % of users sharing work after receiving AI feedback
+- **Community Engagement by Flow**: Engagement rates for users who share after onboarding, after practice, or after co-creation 
